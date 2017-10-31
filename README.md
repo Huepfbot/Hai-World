@@ -1,2 +1,4 @@
 # Hai-World
-Hello World Guide
+HAI WRLD
+CAN HAS GIT?
+KTHXBYE
